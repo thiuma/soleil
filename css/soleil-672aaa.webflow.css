@@ -126,7 +126,7 @@ blockquote {
 }
 
 .image.is-5 {
-  width: 100%;
+  width: 96%;
   margin-top: 5%;
   margin-bottom: 5%;
   margin-left: 2%;
@@ -224,6 +224,7 @@ blockquote {
 .page-gallery {
   height: 100svh;
   padding-left: 1rem;
+  padding-right: 1rem;
   position: relative;
 }
 
@@ -343,6 +344,7 @@ blockquote {
   .page-gallery {
     height: 105svh;
     padding-left: 0;
+    padding-right: 0;
     overflow: hidden;
   }
 
